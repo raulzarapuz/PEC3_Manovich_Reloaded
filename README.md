@@ -33,7 +33,7 @@ Desde el enfoque de la hibridación, el **ChatGPT** trasciende las barreras trad
 **ChatGPT** se puede considerar un caso de **hibridación** **moderna** en la comunicación digital. A través de la convergencia entre la **inteligencia** **artificial** y la interacción textual en tiempo real, el **ChatGPT** representa la **fusión** de elementos culturales y tecnológicos en la forma en que nos comunicamos. La **adaptabilidad**, la **interactividad** y **la mejora continua** del sistema demuestran cómo la **hibridación** presente transforma y amplía nuestras capacidades de comunicación en entornos virtuales
 ## **Dall-E: Hibridación y Creatividad en la Generación de Imágenes por Inteligencia Artificial**
 
-![Dall-E](Aspose.Words.c7024a34-23a4-4dfc-80d4-17c4f0efe7ca.002.png)
+![Dall-E](Aspose.Words.8db8930e-22e1-40ef-b7b0-1bc02fe4fcdd.002.png)
 
 *Imagenes generadas por Dall-E usando el prompt «Crea una silla con forma de aguacate»*. (s. f.). Daleonai.com. Recuperado 25 de mayo de 2023, de <https://daleonai.com/images/screen-shot-2021-01-06-at-1.37.37-pm.png>
 
