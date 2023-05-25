@@ -10,9 +10,9 @@ Siguiendo la visión de Manovich, la hibridación implica la fusión y convergen
 
 Estos casos de hibridación en la era de la inteligencia artificial demuestran cómo la tecnología está transformando y redefiniendo la forma en que interactuamos con los medios. Al fusionar la capacidad de procesamiento y generación de la inteligencia artificial con la interacción humana y las expresiones creativas, se abren nuevas posibilidades y experiencias en la creación y consumo de contenido digital.
 ## **El ChatGPT: Un caso de hibridación moderna en la comunicación digital**
-## ![Texto
 
-Descripción generada automáticamente](Aspose.Words.8db8930e-22e1-40ef-b7b0-1bc02fe4fcdd.001.png)
+![ChatGPT](Aspose.Words.8db8930e-22e1-40ef-b7b0-1bc02fe4fcdd.001.png)
+
 *Interpretacion de codigo con ChatGPT*. (s. f.). Amazonaws.com. Recuperado 25 de mayo de 2023, de <https://typefully-user-uploads.s3.amazonaws.com/img/original/9516/8060e44e-b464-40b5-9d74-3bbba41078e5.png__edited?response-cache-control=no-cache&AWSAccessKeyId=AKIAVTJZGL3H4SWWVYIT&Signature=j%2BzWLo0obNPJ1p1Wzmff92JB0pY%3D&Expires=1685125050>
 ##
 En la era actual de la comunicación digital, la hibridación se manifiesta de diversas formas, y un claro ejemplo es el ChatGPT. 
