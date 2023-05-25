@@ -14,7 +14,7 @@ Siguiendo la visión de **Manovich**, la **hibridación** implica la **fusión**
 Estos casos de **hibridación** en la era de la **inteligencia artificial** demuestran cómo la tecnología está transformando y redefiniendo la forma en que interactuamos con los medios. Al fusionar la capacidad de procesamiento y generación de la **inteligencia artificial** con la interacción humana y las expresiones creativas, se abren nuevas posibilidades y experiencias en la creación y consumo de **contenido digital**.
 ## **El ChatGPT: Un caso de hibridación moderna en la comunicación digital**
 
-![ChatGPT](Aspose.Words.c7024a34-23a4-4dfc-80d4-17c4f0efe7ca.001.png)
+![](Aspose.Words.c7024a34-23a4-4dfc-80d4-17c4f0efe7ca.001.png)
 
 *Interpretacion de codigo con ChatGPT*. (s. f.). Amazonaws.com. Recuperado 25 de mayo de 2023, de <https://typefully-user-uploads.s3.amazonaws.com/img/original/9516/8060e44e-b464-40b5-9d74-3bbba41078e5.png__edited?response-cache-control=no-cache&AWSAccessKeyId=AKIAVTJZGL3H4SWWVYIT&Signature=j%2BzWLo0obNPJ1p1Wzmff92JB0pY%3D&Expires=1685125050>
 
@@ -33,7 +33,7 @@ Desde el enfoque de la hibridación, el **ChatGPT** trasciende las barreras trad
 **ChatGPT** se puede considerar un caso de **hibridación** **moderna** en la comunicación digital. A través de la convergencia entre la **inteligencia** **artificial** y la interacción textual en tiempo real, el **ChatGPT** representa la **fusión** de elementos culturales y tecnológicos en la forma en que nos comunicamos. La **adaptabilidad**, la **interactividad** y **la mejora continua** del sistema demuestran cómo la **hibridación** presente transforma y amplía nuestras capacidades de comunicación en entornos virtuales
 ## **Dall-E: Hibridación y Creatividad en la Generación de Imágenes por Inteligencia Artificial**
 
-![Dall-E](Aspose.Words.c7024a34-23a4-4dfc-80d4-17c4f0efe7ca.002.png)
+![](Aspose.Words.c7024a34-23a4-4dfc-80d4-17c4f0efe7ca.002.png)
 
 *Imagenes generadas por Dall-E usando el prompt «Crea una silla con forma de aguacate»*. (s. f.). Daleonai.com. Recuperado 25 de mayo de 2023, de <https://daleonai.com/images/screen-shot-2021-01-06-at-1.37.37-pm.png>
 
